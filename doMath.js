@@ -1,7 +1,7 @@
-function addNumbers(x, y){
+function add(x, y){
   return x +y;
 }
 
-console.log(addNumbers(2,2))
+console.log(add(2,2))
 
-console.log(addNumbers(3,3))
+console.log(add(3,3))
